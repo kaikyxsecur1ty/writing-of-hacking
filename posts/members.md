@@ -1,3 +1,3 @@
 ### [ membros oficiais ]
 
-- kaikyxsecur1ty [GitHub](https://github.com/kaikyxsecur1ty)
+- kaikyxsecur1ty [GITHUB](https://github.com/kaikyxsecur1ty)
