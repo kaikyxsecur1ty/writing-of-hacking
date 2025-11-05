@@ -1,3 +1,3 @@
 ### [ membros oficiais ]
 
-- panamera_gt_rs [GitHub](https://github.com/panamera_gt_rs)
+- kaikyxsecur1ty [GitHub](https://github.com/kaikyxsecur1ty)
