@@ -1,4 +1,4 @@
-# Seja bem-vindo(a) ao Maritimo
+# seja bem-vindo ao Maritimo.sh, comunidade sem fins lucrativos.
 
 somos uma comunidade nova de entusiastas e profissionais de `hacking` e `segurança ofensiva`
 mas qualquer conteúdo relevante e relacionado à `segurança da informação`é totalmente bem-vinda, `sinta-se à vontade`
