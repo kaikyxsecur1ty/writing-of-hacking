@@ -1,1 +1,1 @@
-- @kaikyxsecur1ty - Pentester, Segurança Ofensiva - [GitHub](https://github.com/kaikyxsecur1ty)
+- @kaikyxsecur1ty Pentester - [GitHub](https://github.com/kaikyxsecur1ty)
